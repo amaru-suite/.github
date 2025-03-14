@@ -1,32 +1,55 @@
-## Amaru Suite Latam
+## 🌿 Amaru Suite Latam
 
-### 🌿 Descripción
-Amaru Suite Latam es un software diseñado para la prevención frente a las obligaciones de las normas ambientales, incluyendo normatividad, licencias, requerimientos y permisos. Su propósito principal es permitir a medianas y grandes empresas conocer el estado de sus obligaciones ambientales para prevenir posibles sancionatorios legales.
+Amaru Suite Latam es un software avanzado de gestión ambiental diseñado para ayudar a medianas y grandes empresas a garantizar el cumplimiento de las normativas ambientales vigentes. Facilita la prevención de sanciones legales al proporcionar un sistema centralizado para la gestión, monitoreo y control de sus obligaciones ambientales.
 
-Con Amaru Suite Latam, las empresas pueden crear matrices de obligaciones ambientales relacionadas con impactos específicos, como:
-- Residuos peligrosos.
-- Vertimientos.
-- Aguas residuales.
-- Entre otros.
+### 📌 Funcionalidades Clave
+- 📋 **Gestión Centralizada:** Administración eficiente de normatividad, licencias, requerimientos y permisos ambientales.
+- 📈 **Monitoreo Continuo:** Seguimiento constante del estado de cumplimiento para prevenir posibles incumplimientos.
+- 📝 **Creación de Matrices Personalizadas:** Generación de matrices de obligaciones específicas para impactos como:
+  - Residuos peligrosos
+  - Vertimientos
+  - Aguas residuales
+  - Otros impactos ambientales relevantes
+- 🔔 **Alertas y Reportes:** Notificaciones proactivas para asegurar el cumplimiento oportuno.
+- 🔒 **Seguridad y Escalabilidad:** Plataforma diseñada para integrarse con sistemas corporativos existentes garantizando alta disponibilidad.
 
-### 🚀 Características
-- Gestión centralizada de obligaciones ambientales.
-- Creación de matrices personalizadas basadas en los impactos ambientales generados.
-- Monitoreo continuo del estado de cumplimiento de las obligaciones.
-- Prevención de sanciones legales mediante alertas y reportes.
+### 📦 Instalación
+1. **Requerimientos Previos:**
+   - Node.js >= 18.x
+   - npm >= 9.x
+   - Supabase configurado y accesible
+   - Base de datos PostgreSQL
 
-### 📝 Instalación
-(Explicar aquí cómo instalar el software, si es un backend, frontend, o ambos. Incluir requerimientos y pasos detallados.)
+2. **Instalación del Backend:**
+   ```bash
+   git clone <URL_DEL_REPOSITORIO>
+   cd amaru-suite-latam/backend
+   npm install
+   npm run dev
+   ```
 
-### 📚 Uso
-(Explicar aquí cómo se utiliza la plataforma, ejemplos de uso y configuración inicial.)
+3. **Instalación del Frontend:**
+   ```bash
+   cd amaru-suite-latam/frontend
+   npm install
+   npm run dev
+   ```
+
+### 🚀 Uso
+- Accede a la plataforma desde: `http://localhost:3000`
+- Autentícate con tus credenciales previamente configuradas.
+- Navega por los diferentes módulos para gestionar tus obligaciones ambientales.
 
 ### 🤝 Contribución
-(Si planeas permitir contribuciones de otros, explica aquí cómo pueden contribuir al proyecto.)
+¡Las contribuciones son bienvenidas! Si deseas colaborar:
+1. Realiza un fork del repositorio.
+2. Crea un branch para tus cambios: `git checkout -b feature/nueva-funcionalidad`
+3. Realiza tus modificaciones y crea commits descriptivos.
+4. Envía un Pull Request detallado.
 
 ### 📄 Licencia
-(Agregar la licencia aplicable, por ejemplo, MIT, Apache 2.0, etc.)
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
 
 ### 📫 Contacto
-(Información de contacto o enlaces relacionados con Amaru Suite Latam.)
+Para más información o soporte, por favor contacta a: [tu-email@dominio.com]
 
