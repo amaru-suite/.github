@@ -51,5 +51,5 @@ Amaru Suite Latam es un software avanzado de gestión ambiental diseñado para a
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
 
 ### 📫 Contacto
-Para más información o soporte, por favor contacta a: [tu-email@dominio.com]
+Para más información o soporte, por favor contacta a: daniel.perez@legalsuitelatam.com
 
