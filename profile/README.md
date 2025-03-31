@@ -15,8 +15,8 @@ Amaru Suite Latam es un software avanzado de gestión ambiental diseñado para a
 
 ### 📦 Instalación
 1. **Requerimientos Previos:**
-   - Node.js >= 18.x
-   - npm >= 9.x
+   - Node.js >= 20.x
+   - npm >= 10.9.2.x
    - Supabase configurado y accesible
    - Base de datos PostgreSQL
 
